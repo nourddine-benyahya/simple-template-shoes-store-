@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #333263;
+    background-color: #333  263;
 }
 
 .min{
@@ -14,9 +14,7 @@
     overflow: hidden;
     border-bottom-left-radius: 20px;
     box-shadow: 0 0 10px #9ff9ff;
-    margin-left: 80%;
-    float: right;
-    position: absolute;
+    left: 80%;
 }
 .drop{
     position: absolute;
@@ -37,9 +35,8 @@
     
 }
 header{
-    width: 1200px;
+    width: 100%;
     height: 150px;
-    
     
 }
 #titl{
@@ -93,7 +90,7 @@ header{
     margin: 65px 0 0 15px;
 }
 #imj{
-    margin: 0 30PX 0 0;
+    margin: 0 0 0 100PX;
 }
 
 
@@ -212,7 +209,7 @@ header{
     border-color: rgb(162, 0, 255);
 }
 .btnshop{
-    width: 100px;
+    width: 150px;
     height: 40px;
     background:rgb(162, 0, 255);
     border: 2px solid rgb(162, 0, 255);
@@ -283,4 +280,41 @@ header{
     color: #1AA687;
     border-radius: 70%;
     font-size: 32px;
+}
+.btnord{
+    width: 130px;
+    height: 40px;
+    background: rgb(162, 0, 255);
+    border: 2px soliD rgb(162, 0, 255);
+    font-size: 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 0 0 0 25PX;
+}
+.size{
+    margin: 0  0 0 150px;
+    font-size: 24px;
+    letter-spacing: 12px;
+    color: #1AA687;
+    text-decoration: overline;
+}
+.a{
+    margin: 0 25px 0 0;
+    color: #1AA687;
+    border: #1AA687 solid 2px;
+    padding: 0 4px 3px 3px;
+    color: #eeeeee;
+    border-radius: 80%;
+}
+.e{
+    margin: 0 25px 0 0;
+    color: #1AA687;
+}
+.f{
+    margin: 0 25px 0 0;
+    color: #1AA687;
+}
+.b{
+    margin: 0 0 0 360px;
+    font-size: 16px;
 }

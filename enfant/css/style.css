@@ -282,3 +282,48 @@ section{
     font-size: 1.5rem;
     color:#999;
 }
+.menu{
+    width: 1200px;
+    height: 75px;
+    background-color:rgba(255, 51, 153, 0.158);
+    border-radius: 15px;
+    margin: auto;
+    
+}
+.ulist{
+    
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+   ;
+}
+.links,button{
+    font-family: "montserrat", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #1f1e1e;
+    text-decoration: none;
+    list-style: none;
+  
+}
+.links:hover{
+    color: rgb(162, 0, 255);
+    
+}
+.links{
+    text-decoration: none;
+    font-family: arial;
+    font-weight: bold;
+    transition: 0,2s ease-in-out;
+    color:rgb(0, 0, 0);
+    
+}
+.listt{
+    height: 30px ;
+    list-style: none;
+    margin: auto;
+    font-size: 14px;
+    padding: 30px;
+   
+}
+
